@@ -1,6 +1,6 @@
 # React-Redux-Shopping-Cart
 
-Live Demo :- https://duha2001.github.io/Shopping-Cart/s
+Live Demo :- https://duha2001.github.io/Shopping-Cart/
 
 ### Instructions :-
 
