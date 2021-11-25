@@ -19,7 +19,7 @@ const ProductItem = (props) => {
             <br />
             <Badge color="warning font-weight-light">{rating} &#9733;</Badge>
             <p className="mb-0 mt-2 text-success">Giá ưu đãi</p>
-            <h2 className="d-inline-block mr-2">{offerPrice}</h2>2
+            <h2 className="d-inline-block mr-2">{offerPrice}</h2>
             <span className="d-inline-block text-muted">
               <del>{price}</del>
             </span>
