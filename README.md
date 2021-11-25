@@ -1,9 +1,10 @@
 # React-Redux-Shopping-Cart
 
-Live Demo :- https://redux-cart.netlify.app/
+Live Demo :- https://duha2001.github.io/Shopping-Cart/s
 
 ### Instructions :-
-* Clone the repository
-* Go to project folder, Open terminal and run __`npm install`__
-* then run __`npm start`__
-* Open browser and go to __`http://localhost:3000`__
+
+- Clone the repository
+- Go to project folder, Open terminal and run **`npm install`**
+- then run **`npm start`**
+- Open browser and go to **`http://localhost:3000`**
