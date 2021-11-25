@@ -10,7 +10,7 @@ Live Demo :- https://duha2001.github.io/Shopping-Cart/
 - Open browser and go to **`http://localhost:3000`**
 
 ### TEAM GORILLAS - HCMUE:
-1/ HUỲNH ANH DỰ
-2/ LÊ THANH THOẠI
-3/ NGUYỄN VĂN GIÀU
-4/ TRƯƠNG ĐÌNH ANH
+- HUỲNH ANH DỰ 
+- LÊ THANH THOẠI
+- NGUYỄN VĂN GIÀU
+- TRƯƠNG ĐÌNH ANH
